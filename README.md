@@ -37,3 +37,7 @@ Languages and Tools I use :
 <p align="left">
 MY HOBBIES : Sports, Creating Music, Fishing, Cooking
 </p>
+
+<hr> 
+<img src="" height="250" /> &nbsp;
+<iframe src="https://giphy.com/embed/duL28c2tptZ0zAopCf" width="480" height="436" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Bannerboy-bug-bugs-debug-duL28c2tptZ0zAopCf">via GIPHY</a></p>
