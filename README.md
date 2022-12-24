@@ -1,10 +1,10 @@
 ![QA-banner](https://user-images.githubusercontent.com/119007907/209415679-06ec90a6-3efd-4c60-9652-5212ab9829d1.jpg)
-<hr> 
-<div align="center">
-<h1 align="center">Hi! 👋 I'm a Software QA Manual and Automation Engineer</h1>
 <p align="center">
 It's not about being the best, it's about being better than you were yesterday!
 </p>
+<hr> 
+<div align="center">
+<h1 align="center">Hi! 👋 I'm a Software QA Manual and Automation Engineer</h1>
 <a href="https://www.linkedin.com/in/tahir-seidov/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <div align="center">
