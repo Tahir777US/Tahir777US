@@ -2,14 +2,14 @@
 <p align="center">
 It's not about being the best, it's about being better than you were yesterday!
 </p>
-<hr> 
 <div align="center">
 <h1 align="center">Hi! 👋 I'm a Software QA Manual and Automation Engineer</h1>
 <a href="https://www.linkedin.com/in/tahir-seidov/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <div align="center">
 </div>
-<p>
+<p>  
+<hr>  
 Languages and Tools I use :
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
@@ -34,6 +34,9 @@ Languages and Tools I use :
 &nbsp;
 </p> 
 </div>
+<p> 
+<hr> 
+</p>
 <p align="center">
 MY HOBBIES : Sports, Creating Music, Fishing, Cooking
 </p>
