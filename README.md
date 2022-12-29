@@ -40,8 +40,3 @@ Languages and Tools I use :
 <p align="center">
 MY HOBBIES : Sports, Creating Music, Fishing, Cooking
 </p>
-<hr>
-![mygif](https://media.giphy.com/media/duL28c2tptZ0zAopCf/giphy.gif)
-</hr>
-![mygif](https://media.giphy.com/media/duL28c2tptZ0zAopCf/giphy.gif)
-<img src="https://media3.giphy.com/media/duL28c2tptZ0zAopCf/giphy.gif?cid=ecf05e47zovlwinpcj3lcmy2tpnoop3k08dep1k479f7t15d&rid=giphy.gif&ct=g">
