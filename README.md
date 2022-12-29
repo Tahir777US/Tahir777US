@@ -8,8 +8,8 @@ It's not about being the best, it's about being better than you were yesterday!
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <div align="center">
 </div>
-<p>  
-<hr>  
+<p>
+<hr>
 Languages and Tools I use :
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
@@ -40,3 +40,8 @@ Languages and Tools I use :
 <p align="center">
 MY HOBBIES : Sports, Creating Music, Fishing, Cooking
 </p>
+<hr>
+![mygif](https://media.giphy.com/media/duL28c2tptZ0zAopCf/giphy.gif)
+</hr>
+![mygif](https://media.giphy.com/media/duL28c2tptZ0zAopCf/giphy.gif)
+<img src="https://media3.giphy.com/media/duL28c2tptZ0zAopCf/giphy.gif?cid=ecf05e47zovlwinpcj3lcmy2tpnoop3k08dep1k479f7t15d&rid=giphy.gif&ct=g">
